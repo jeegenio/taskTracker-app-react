@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import { FaAllergies } from 'react-icons/fa';
+// import { FaAllergies } from 'react-icons/fa';
 
 
 
